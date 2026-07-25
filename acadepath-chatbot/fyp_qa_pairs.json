@@ -1,0 +1,470 @@
+[
+  {
+    "question": "What is the grading breakdown for FYP-II?",
+    "answer": "In FYP-II, marks are distributed as follows: Supervisor 30%, Internal Evaluator 30%, and External Evaluator 40%. The External Evaluation alone carries 40 marks out of the total, so a strong final demo and report matter a great deal."
+  },
+  {
+    "question": "What kind of FYP topic should I pick if I like Healthcare?",
+    "answer": "Since you're interested in Healthcare, here are some project directions worth exploring: AI-based personal health assistant; Skin Disease Detection system; Mental Health Companion Application with mood tracking; Alzheimer's Disease Detection using medical imaging. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What can you help me with?",
+    "answer": "I'm an AI assistant for Final Year Project students in the Department of Computer Science at UET Taxila. I can explain FYP rules, report structure, grading criteria, the FYP-I/FYP-II workflow, and suggest project ideas based on your interests."
+  },
+  {
+    "question": "Can you suggest a final year project related to Smart Cities and Traffic?",
+    "answer": "Since you're interested in Smart Cities and Traffic, here are some project directions worth exploring: NextGen Traffic — AI-based traffic management system; SMART-X Twin — AI-based smart-city digital twin; Intelligent Urban Reporting System for civic issues; AeroTwin smart-airport digital twin. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What should I write in Chapter 1 - Introduction?",
+    "answer": "The Introduction must be a minimum of 500 words (typically 2–5 pages). Cover: domain background, motivation/significance (with references), objectives and scope, proposed solution, expected results, and a bullet list of main contributions."
+  },
+  {
+    "question": "Give me some project ideas in the field of Natural Language Processing.",
+    "answer": "Since you're interested in Natural Language Processing, here are some project directions worth exploring: Text-to-Speech system for Urdu or English; YouTube Comments Sentiment Analysis; Insight Video — AI tool that summarizes YouTube videos; Intelligent agent-based system for career automation and interview preparation. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "Give me some project ideas in the field of Security and Blockchain.",
+    "answer": "Since you're interested in Security and Blockchain, here are some project directions worth exploring: Secure Sphere — AI-powered digital security application; Key Keepers — password-security tool for children; Blockchain-based supply-chain transparency for medicines; Intelligent security operations platform for threat detection. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "I don't know what topic to choose for my FYP.",
+    "answer": "Start by listing 2–3 technical areas you genuinely enjoy. Then find a real, specific problem within that area. A strong topic is: (1) solvable within two semesters, (2) has feasible data/hardware requirements, (3) has at least one original contribution, and (4) matches an available supervisor's expertise. Reviewing previous approved project titles in your domain is also helpful."
+  },
+  {
+    "question": "Should I choose a Development project or an R&D project?",
+    "answer": "Choose Development if your strength is building a complete, well-engineered system. Choose R&D if you want to investigate or improve an algorithm/model where the main contribution is the research finding itself. R&D requires more references and a stronger literature review; Development emphasizes full-featured implementation."
+  },
+  {
+    "question": "Give me some project ideas in the field of IoT.",
+    "answer": "Since you're interested in IoT, here are some project directions worth exploring: IoT-based multi-site fuel dispenser monitoring system; Digital IoT-based forest monitoring network; Smart Helmet with embedded safety sensors; AgroTwinX — AI-powered digital twin for smart agriculture. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "Can you write me a poem?",
+    "answer": "That's outside my scope — I'm focused specifically on FYP rules, reports, evaluation, and topic guidance. Happy to help with any FYP-related question!"
+  },
+  {
+    "question": "What kind of FYP topic should I pick if I like Creative AI and Media?",
+    "answer": "Since you're interested in Creative AI and Media, here are some project directions worth exploring: AI-powered movie streaming and short-film creation platform; Autopost AI — automated social-media content posting; Adaptive zero-shot voice cloning system; SafeStream — AI-based age-group detection for YouTube content filtering. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What is the format for the problem statement section?",
+    "answer": "The Problem Statement should be a single paragraph of no more than 10 lines, identifying limitations of existing methods, explaining why the problem is important, linking to real-world relevance, and justifying your proposed work."
+  },
+  {
+    "question": "What is the FYP-II compliance form for?",
+    "answer": "Before a group is cleared for the Final External Evaluation, the FYP-II Compliance Form must confirm: documentation is complete and plagiarism-free, source code is 100% complete, demo is ready, poster is ready, and presentation is ready. It also verifies formatting items like page numbering, TOC, consistent fonts, justified paragraphs, IEEE-style references. The Project Supervisor signs off on this form."
+  },
+  {
+    "question": "What is the required formatting for the FYP report?",
+    "answer": "A4 paper, margins as per template (do not modify). Body text: Times New Roman 11pt, 1.5 line spacing, 0pt before / 6pt after paragraphs, justified. Headings: H1 = 16pt bold, H2 = 14pt bold, H3 = 12pt bold italic. Max 3 heading levels. Code in Courier New (pseudocode preferred)."
+  },
+  {
+    "question": "I am interested in Computer Vision. What FYP project ideas would you suggest?",
+    "answer": "Since you're interested in Computer Vision, here are some project directions worth exploring: Hybrid multi-model deepfake detection system; Alzheimer's Disease Detection using Vision Transformers and MRI scans; AI-based tree species classification from images; Skin Disease Detection using image classification. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "Can you suggest a final year project related to E-commerce and Freelance Platforms?",
+    "answer": "Since you're interested in E-commerce and Freelance Platforms, here are some project directions worth exploring: TaskLink — hyperlocal marketplace for everyday tasks; AI-powered freelance marketplace with smart matching; RozgarPoint — job platform for low-skilled workers; AI-based job/career recommendation system. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "I am interested in Natural Language Processing. What FYP project ideas would you suggest?",
+    "answer": "Since you're interested in Natural Language Processing, here are some project directions worth exploring: Text-to-Speech system for Urdu or English; YouTube Comments Sentiment Analysis; Insight Video — AI tool that summarizes YouTube videos; Intelligent agent-based system for career automation and interview preparation. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "I am interested in Healthcare. What FYP project ideas would you suggest?",
+    "answer": "Since you're interested in Healthcare, here are some project directions worth exploring: AI-based personal health assistant; Skin Disease Detection system; Mental Health Companion Application with mood tracking; Alzheimer's Disease Detection using medical imaging. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "How are FYP-I marks distributed?",
+    "answer": "In FYP-I, the Supervisor contributes 60% of the marks and the Internal Evaluator contributes the remaining 40%."
+  },
+  {
+    "question": "I am interested in Creative AI and Media. What FYP project ideas would you suggest?",
+    "answer": "Since you're interested in Creative AI and Media, here are some project directions worth exploring: AI-powered movie streaming and short-film creation platform; Autopost AI — automated social-media content posting; Adaptive zero-shot voice cloning system; SafeStream — AI-based age-group detection for YouTube content filtering. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "Can you suggest a final year project related to IoT?",
+    "answer": "Since you're interested in IoT, here are some project directions worth exploring: IoT-based multi-site fuel dispenser monitoring system; Digital IoT-based forest monitoring network; Smart Helmet with embedded safety sensors; AgroTwinX — AI-powered digital twin for smart agriculture. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "How do I choose a good FYP topic?",
+    "answer": "Start by listing 2–3 technical areas you genuinely enjoy. Then find a real, specific problem within that area. A strong topic is: (1) solvable within two semesters, (2) has feasible data/hardware requirements, (3) has at least one original contribution, and (4) matches an available supervisor's expertise. Reviewing previous approved project titles in your domain is also helpful."
+  },
+  {
+    "question": "What is the grading breakdown for FYP-I?",
+    "answer": "In FYP-I, the Supervisor contributes 60% of the marks and the Internal Evaluator contributes the remaining 40%."
+  },
+  {
+    "question": "What is the maximum group size for FYP?",
+    "answer": "An FYP group normally consists of 2 to 3 students. Working completely alone is discouraged — every group should have at least two members so that the workload, skill-sets, and responsibilities can be properly distributed across the project lifecycle."
+  },
+  {
+    "question": "I am interested in FinTech. What FYP project ideas would you suggest?",
+    "answer": "Since you're interested in FinTech, here are some project directions worth exploring: FinGuard — AI-powered personal finance mentor; Slaeb HR — HR management platform; CareerSwipe — AI-powered job-recommendation system; Agent-based interview-preparation and career-automation system. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "I am interested in E-commerce and Freelance Platforms. What FYP project ideas would you suggest?",
+    "answer": "Since you're interested in E-commerce and Freelance Platforms, here are some project directions worth exploring: TaskLink — hyperlocal marketplace for everyday tasks; AI-powered freelance marketplace with smart matching; RozgarPoint — job platform for low-skilled workers; AI-based job/career recommendation system. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "List the chapters of the FYP final report.",
+    "answer": "Standard FYP report structure:\nChapter 1 — Introduction\nChapter 2 — Existing Solutions\nChapter 3 — Requirement Analysis\nChapter 4 — System Design\nChapter 5 — System Testing\nChapter 6 — Implementation\nChapter 7 — Conclusions\nChapter 8 — References (IEEE style)\nAppendix A (Turnitin) and Appendix B (AI report)."
+  },
+  {
+    "question": "What kind of FYP topic should I pick if I like FinTech?",
+    "answer": "Since you're interested in FinTech, here are some project directions worth exploring: FinGuard — AI-powered personal finance mentor; Slaeb HR — HR management platform; CareerSwipe — AI-powered job-recommendation system; Agent-based interview-preparation and career-automation system. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "I want to change my FYP topic, is that allowed?",
+    "answer": "A topic change after approval requires written permission from your supervisor and the FYP Committee, and is only feasible within the first few weeks of the semester. Once development is underway, changing the topic is strongly discouraged as it disrupts your timeline and Gantt chart."
+  },
+  {
+    "question": "Give me some project ideas in the field of Workflow Automation.",
+    "answer": "Since you're interested in Workflow Automation, here are some project directions worth exploring: AI-driven platform for FYP coordination and workflow automation; Clarion — AI-powered legal-practice management platform; Smart AI interview-analysis platform; xRuto — delivery route-optimization system for SMEs. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What goes in Chapter 2 - Existing Solutions?",
+    "answer": "Analyze and compare 5 existing market solutions. For each: overview, key features with screenshots, technology stack, UI/UX analysis, strengths, drawbacks, and target audience. Include a comparative analysis table and a gaps-identified section explaining how your FYP addresses them."
+  },
+  {
+    "question": "Give me some project ideas in the field of Artificial Intelligence.",
+    "answer": "Since you're interested in Artificial Intelligence, here are some project directions worth exploring: AI-Powered Virtual Medical Assistant; Human Behaviour Predictor using behavioural data modelling; AI tutor app for personalized learning support; CTRL — personal AI assistant for daily task management. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "Can you suggest a final year project related to Workflow Automation?",
+    "answer": "Since you're interested in Workflow Automation, here are some project directions worth exploring: AI-driven platform for FYP coordination and workflow automation; Clarion — AI-powered legal-practice management platform; Smart AI interview-analysis platform; xRuto — delivery route-optimization system for SMEs. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "How many references are required?",
+    "answer": "IEEE style, listed in order of first appearance. Development projects: minimum 6 references (15 for full submission). R&D projects: minimum 10 references (20 for full submission). Use a citation manager like Zotero or Mendeley."
+  },
+  {
+    "question": "I am interested in Workflow Automation. What FYP project ideas would you suggest?",
+    "answer": "Since you're interested in Workflow Automation, here are some project directions worth exploring: AI-driven platform for FYP coordination and workflow automation; Clarion — AI-powered legal-practice management platform; Smart AI interview-analysis platform; xRuto — delivery route-optimization system for SMEs. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What is the correct format for the Main Objectives section?",
+    "answer": "Objectives should be precise, max two lines each, starting with an action verb such as 'To collect the dataset...', 'To develop a system...', 'To introduce an approach...', or 'To build an architecture...'."
+  },
+  {
+    "question": "What should I do if my supervisor rejects my proposal?",
+    "answer": "Carefully review the feedback, revise the proposal to address every point, and resubmit. If rejected multiple times, contact your FYP Coordinator or Committee for guidance."
+  },
+  {
+    "question": "What citation style does the FYP report use?",
+    "answer": "IEEE style, listed in order of first appearance. Development projects: minimum 6 references (15 for full submission). R&D projects: minimum 10 references (20 for full submission). Use a citation manager like Zotero or Mendeley."
+  },
+  {
+    "question": "Can you suggest a final year project related to Healthcare?",
+    "answer": "Since you're interested in Healthcare, here are some project directions worth exploring: AI-based personal health assistant; Skin Disease Detection system; Mental Health Companion Application with mood tracking; Alzheimer's Disease Detection using medical imaging. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What kind of FYP topic should I pick if I like Artificial Intelligence?",
+    "answer": "Since you're interested in Artificial Intelligence, here are some project directions worth exploring: AI-Powered Virtual Medical Assistant; Human Behaviour Predictor using behavioural data modelling; AI tutor app for personalized learning support; CTRL — personal AI assistant for daily task management. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "Give me some project ideas in the field of Computer Vision.",
+    "answer": "Since you're interested in Computer Vision, here are some project directions worth exploring: Hybrid multi-model deepfake detection system; Alzheimer's Disease Detection using Vision Transformers and MRI scans; AI-based tree species classification from images; Skin Disease Detection using image classification. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What kind of FYP topic should I pick if I like Security and Blockchain?",
+    "answer": "Since you're interested in Security and Blockchain, here are some project directions worth exploring: Secure Sphere — AI-powered digital security application; Key Keepers — password-security tool for children; Blockchain-based supply-chain transparency for medicines; Intelligent security operations platform for threat detection. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What is the acceptable plagiarism similarity index for the FYP report?",
+    "answer": "The plagiarism similarity index must stay within 20%. The first page of the Turnitin report, signed by your supervisor, must be attached as Appendix A. The first page of the AI-content-detection report, also signed, goes in Appendix B. Any use of AI tools must be properly acknowledged."
+  },
+  {
+    "question": "Which SDGs can my FYP be mapped to?",
+    "answer": "Relevant SDGs include: Good Health & Well-Being, Quality Education, Gender Equality, Decent Work and Economic Growth, Industry/Innovation & Infrastructure, Climate Action, No Poverty, Sustainable Energy & Water, and Life on Land & Water. Mapping to an SDG strengthens your proposal's significance section."
+  },
+  {
+    "question": "What kind of FYP topic should I pick if I like IoT?",
+    "answer": "Since you're interested in IoT, here are some project directions worth exploring: IoT-based multi-site fuel dispenser monitoring system; Digital IoT-based forest monitoring network; Smart Helmet with embedded safety sensors; AgroTwinX — AI-powered digital twin for smart agriculture. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "How much plagiarism is allowed in the FYP report?",
+    "answer": "The plagiarism similarity index must stay within 20%. The first page of the Turnitin report, signed by your supervisor, must be attached as Appendix A. The first page of the AI-content-detection report, also signed, goes in Appendix B. Any use of AI tools must be properly acknowledged."
+  },
+  {
+    "question": "How much implementation should be shown in FYP-I vs FYP-II?",
+    "answer": "FYP Mid Report (FYP-I): ~30% implementation. FYP Final Report (FYP-II): 100% implementation. Both must include a WBS, mandatory Gantt chart, team roles, tools/technologies, implementation details, screenshots, and challenges faced."
+  },
+  {
+    "question": "How many progress reports do I need to submit during FYP?",
+    "answer": "Progress is tracked through Mid Evaluations in each semester (FYP-I Mid/Final and FYP-II Mid/Final), supported by regular supervisor meetings. Exact dates are set by the FYP Coordinator each session."
+  },
+  {
+    "question": "Assalam o Alaikum",
+    "answer": "Hello! I'm your FYP Assistant. I can help you with FYP rules, report formatting, evaluation criteria, the proposal/approval process, and project topic recommendations. What would you like to know?"
+  },
+  {
+    "question": "Give me some project ideas in the field of Healthcare.",
+    "answer": "Since you're interested in Healthcare, here are some project directions worth exploring: AI-based personal health assistant; Skin Disease Detection system; Mental Health Companion Application with mood tracking; Alzheimer's Disease Detection using medical imaging. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "How is the FYP divided across semesters?",
+    "answer": "The FYP is split into two consecutive phases. FYP-I focuses on proposal development, requirement analysis, system design, and an initial prototype (roughly 30% implementation), evaluated through a Mid Evaluation. FYP-II covers the remaining development, complete testing, 100% implementation, the final report, and culminates in an External Evaluation with live demonstrations and a poster session."
+  },
+  {
+    "question": "What kind of FYP topic should I pick if I like Web and Mobile Development?",
+    "answer": "Since you're interested in Web and Mobile Development, here are some project directions worth exploring: Virtual try-on system for e-commerce; HODS — hostel booking application; Career Finder — job/career-matching web app; Flood Detector web application. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "I am interested in Smart Cities and Traffic. What FYP project ideas would you suggest?",
+    "answer": "Since you're interested in Smart Cities and Traffic, here are some project directions worth exploring: NextGen Traffic — AI-based traffic management system; SMART-X Twin — AI-based smart-city digital twin; Intelligent Urban Reporting System for civic issues; AeroTwin smart-airport digital twin. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What makes a strong FYP project idea?",
+    "answer": "Start by listing 2–3 technical areas you genuinely enjoy. Then find a real, specific problem within that area. A strong topic is: (1) solvable within two semesters, (2) has feasible data/hardware requirements, (3) has at least one original contribution, and (4) matches an available supervisor's expertise. Reviewing previous approved project titles in your domain is also helpful."
+  },
+  {
+    "question": "What should I bring to the FYP-II final evaluation?",
+    "answer": "On External Evaluation day, every group must present: a project poster, a live demonstration, a presentation or demo video, full source code, the final report, and supporting materials. Setup must be done by 2:00 PM the day before — no setup is allowed on evaluation day. Students must be at their stations by 9:00 AM. Judges spend about 8-10 minutes per project. Absence results in losing all 40 External Evaluation marks. Formal attire is required and the University Student ID card must be visibly worn."
+  },
+  {
+    "question": "Can you suggest a final year project related to Artificial Intelligence?",
+    "answer": "Since you're interested in Artificial Intelligence, here are some project directions worth exploring: AI-Powered Virtual Medical Assistant; Human Behaviour Predictor using behavioural data modelling; AI tutor app for personalized learning support; CTRL — personal AI assistant for daily task management. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What is the capital of France?",
+    "answer": "That's outside my scope — I'm focused specifically on FYP rules, reports, evaluation, and topic guidance. Happy to help with any FYP-related question!"
+  },
+  {
+    "question": "How many existing products should I compare?",
+    "answer": "Analyze and compare 5 existing market solutions. For each: overview, key features with screenshots, technology stack, UI/UX analysis, strengths, drawbacks, and target audience. Include a comparative analysis table and a gaps-identified section explaining how your FYP addresses them."
+  },
+  {
+    "question": "Can I do my FYP alone?",
+    "answer": "An FYP group normally consists of 2 to 3 students. Working completely alone is discouraged — every group should have at least two members so that the workload, skill-sets, and responsibilities can be properly distributed across the project lifecycle."
+  },
+  {
+    "question": "How is plagiarism in code/diagrams handled?",
+    "answer": "Copying source code, diagrams, or designs without attribution is an ethics violation penalized under the 'Adherence to Ethical Standards' criterion."
+  },
+  {
+    "question": "What kind of FYP topic should I pick if I like E-commerce and Freelance Platforms?",
+    "answer": "Since you're interested in E-commerce and Freelance Platforms, here are some project directions worth exploring: TaskLink — hyperlocal marketplace for everyday tasks; AI-powered freelance marketplace with smart matching; RozgarPoint — job platform for low-skilled workers; AI-based job/career recommendation system. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "Do I need a Turnitin report?",
+    "answer": "The plagiarism similarity index must stay within 20%. The first page of the Turnitin report, signed by your supervisor, must be attached as Appendix A. The first page of the AI-content-detection report, also signed, goes in Appendix B. Any use of AI tools must be properly acknowledged."
+  },
+  {
+    "question": "How does my FYP relate to the SDGs?",
+    "answer": "Relevant SDGs include: Good Health & Well-Being, Quality Education, Gender Equality, Decent Work and Economic Growth, Industry/Innovation & Infrastructure, Climate Action, No Poverty, Sustainable Energy & Water, and Life on Land & Water. Mapping to an SDG strengthens your proposal's significance section."
+  },
+  {
+    "question": "How should figures and tables be numbered and captioned?",
+    "answer": "Figures and tables are numbered per chapter (e.g., Figure 1.1, Table 3.2). Every figure/table must be cross-referenced in text. Captions: 10pt Times New Roman, centre-aligned; figure captions below, table captions above. Insert immediately after first citation."
+  },
+  {
+    "question": "How are FYP-II marks distributed?",
+    "answer": "In FYP-II, marks are distributed as follows: Supervisor 30%, Internal Evaluator 30%, and External Evaluator 40%. The External Evaluation alone carries 40 marks out of the total, so a strong final demo and report matter a great deal."
+  },
+  {
+    "question": "I am interested in Security and Blockchain. What FYP project ideas would you suggest?",
+    "answer": "Since you're interested in Security and Blockchain, here are some project directions worth exploring: Secure Sphere — AI-powered digital security application; Key Keepers — password-security tool for children; Blockchain-based supply-chain transparency for medicines; Intelligent security operations platform for threat detection. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What needs to be checked before I can sit in the Final External Evaluation?",
+    "answer": "Before a group is cleared for the Final External Evaluation, the FYP-II Compliance Form must confirm: documentation is complete and plagiarism-free, source code is 100% complete, demo is ready, poster is ready, and presentation is ready. It also verifies formatting items like page numbering, TOC, consistent fonts, justified paragraphs, IEEE-style references. The Project Supervisor signs off on this form."
+  },
+  {
+    "question": "I am interested in Web and Mobile Development. What FYP project ideas would you suggest?",
+    "answer": "Since you're interested in Web and Mobile Development, here are some project directions worth exploring: Virtual try-on system for e-commerce; HODS — hostel booking application; Career Finder — job/career-matching web app; Flood Detector web application. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What kind of FYP topic should I pick if I like Computer Vision?",
+    "answer": "Since you're interested in Computer Vision, here are some project directions worth exploring: Hybrid multi-model deepfake detection system; Alzheimer's Disease Detection using Vision Transformers and MRI scans; AI-based tree species classification from images; Skin Disease Detection using image classification. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What is the difference between FYP-I and FYP-II?",
+    "answer": "The FYP is split into two consecutive phases. FYP-I focuses on proposal development, requirement analysis, system design, and an initial prototype (roughly 30% implementation), evaluated through a Mid Evaluation. FYP-II covers the remaining development, complete testing, 100% implementation, the final report, and culminates in an External Evaluation with live demonstrations and a poster session."
+  },
+  {
+    "question": "How should project objectives be written?",
+    "answer": "Objectives should be precise, max two lines each, starting with an action verb such as 'To collect the dataset...', 'To develop a system...', 'To introduce an approach...', or 'To build an architecture...'."
+  },
+  {
+    "question": "What is the difference between Development and R&D projects?",
+    "answer": "Projects are classified by Type (Traditional or Industrial) and Nature (Development or Research & Development). Development = building a working system; R&D = includes a novel research contribution backed by experiments. R&D requires more references and a stronger literature review."
+  },
+  {
+    "question": "What areas of specialization can I choose for my FYP?",
+    "answer": "Available specializations include: AI, Computer Vision & Image Processing, NLP, Web Development, Mobile App Development, Blockchain, Cybersecurity, Data Science & Analytics, Game Development, IoT, Robotics, and Health Informatics."
+  },
+  {
+    "question": "On what criteria is the FYP project graded?",
+    "answer": "The FYP grading rubric is mapped to five Course Learning Outcomes (CLOs):\n1. Ethics, professionalism, and communication (5 marks)\n2. Designing effective solutions using current technologies (50 marks)\n3. Test plan design and defending functionality (20 marks)\n4. A formal technical report (20 marks)\n5. Communicating and justifying the solution (5 marks)."
+  },
+  {
+    "question": "I am interested in Artificial Intelligence. What FYP project ideas would you suggest?",
+    "answer": "Since you're interested in Artificial Intelligence, here are some project directions worth exploring: AI-Powered Virtual Medical Assistant; Human Behaviour Predictor using behavioural data modelling; AI tutor app for personalized learning support; CTRL — personal AI assistant for daily task management. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What happens if I miss the Final External Evaluation?",
+    "answer": "Attendance is mandatory. Absence results in losing all 40 marks allocated to External Evaluation in FYP-II."
+  },
+  {
+    "question": "Can I switch my FYP group members mid-project?",
+    "answer": "Only in exceptional circumstances with written approval from the supervisor and FYP Committee, as it affects task allocation, evaluation, and individual contribution records."
+  },
+  {
+    "question": "What is the dress code for FYP evaluation?",
+    "answer": "On External Evaluation day, every group must present: a project poster, a live demonstration, a presentation or demo video, full source code, the final report, and supporting materials. Setup must be done by 2:00 PM the day before — no setup is allowed on evaluation day. Students must be at their stations by 9:00 AM. Judges spend about 8-10 minutes per project. Absence results in losing all 40 External Evaluation marks. Formal attire is required and the University Student ID card must be visibly worn."
+  },
+  {
+    "question": "Give me some project ideas in the field of Smart Cities and Traffic.",
+    "answer": "Since you're interested in Smart Cities and Traffic, here are some project directions worth exploring: NextGen Traffic — AI-based traffic management system; SMART-X Twin — AI-based smart-city digital twin; Intelligent Urban Reporting System for civic issues; AeroTwin smart-airport digital twin. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What types of FYP projects are there?",
+    "answer": "Projects are classified by Type (Traditional or Industrial) and Nature (Development or Research & Development). Development = building a working system; R&D = includes a novel research contribution backed by experiments. R&D requires more references and a stronger literature review."
+  },
+  {
+    "question": "Do I need to mention which AI tools I used while building my FYP?",
+    "answer": "Yes. The rubric explicitly requires disclosure of any AI tools used. Failing to do so costs marks under the ethics/professionalism criterion and may trigger AI-content flags."
+  },
+  {
+    "question": "Can the FYP topic be changed after the proposal is approved?",
+    "answer": "A topic change after approval requires written permission from your supervisor and the FYP Committee, and is only feasible within the first few weeks of the semester. Once development is underway, changing the topic is strongly discouraged as it disrupts your timeline and Gantt chart."
+  },
+  {
+    "question": "How many students can be in one FYP group?",
+    "answer": "An FYP group normally consists of 2 to 3 students. Working completely alone is discouraged — every group should have at least two members so that the workload, skill-sets, and responsibilities can be properly distributed across the project lifecycle."
+  },
+  {
+    "question": "What is your purpose?",
+    "answer": "I'm an AI assistant for Final Year Project students in the Department of Computer Science at UET Taxila. I can explain FYP rules, report structure, grading criteria, the FYP-I/FYP-II workflow, and suggest project ideas based on your interests."
+  },
+  {
+    "question": "What is a Gantt chart and why is it mandatory?",
+    "answer": "A Gantt chart is a visual project timeline. It is mandatory in the Implementation chapter to demonstrate proper planning and time management across the semester."
+  },
+  {
+    "question": "Can you suggest a final year project related to Computer Vision?",
+    "answer": "Since you're interested in Computer Vision, here are some project directions worth exploring: Hybrid multi-model deepfake detection system; Alzheimer's Disease Detection using Vision Transformers and MRI scans; AI-based tree species classification from images; Skin Disease Detection using image classification. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "Can you suggest a final year project related to Natural Language Processing?",
+    "answer": "Since you're interested in Natural Language Processing, here are some project directions worth exploring: Text-to-Speech system for Urdu or English; YouTube Comments Sentiment Analysis; Insight Video — AI tool that summarizes YouTube videos; Intelligent agent-based system for career automation and interview preparation. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "Who evaluates the FYP at each stage?",
+    "answer": "FYP-I: Supervisor 60%, Internal Evaluator 40%. FYP-II: Supervisor 30%, Internal Evaluator 30%, External Evaluator 40%."
+  },
+  {
+    "question": "Can you suggest a final year project related to Creative AI and Media?",
+    "answer": "Since you're interested in Creative AI and Media, here are some project directions worth exploring: AI-powered movie streaming and short-film creation platform; Autopost AI — automated social-media content posting; Adaptive zero-shot voice cloning system; SafeStream — AI-based age-group detection for YouTube content filtering. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "Give me some project ideas in the field of FinTech.",
+    "answer": "Since you're interested in FinTech, here are some project directions worth exploring: FinGuard — AI-powered personal finance mentor; Slaeb HR — HR management platform; CareerSwipe — AI-powered job-recommendation system; Agent-based interview-preparation and career-automation system. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "Give me some project ideas in the field of Creative AI and Media.",
+    "answer": "Since you're interested in Creative AI and Media, here are some project directions worth exploring: AI-powered movie streaming and short-film creation platform; Autopost AI — automated social-media content posting; Adaptive zero-shot voice cloning system; SafeStream — AI-based age-group detection for YouTube content filtering. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What chapters should the FYP report contain?",
+    "answer": "Standard FYP report structure:\nChapter 1 — Introduction\nChapter 2 — Existing Solutions\nChapter 3 — Requirement Analysis\nChapter 4 — System Design\nChapter 5 — System Testing\nChapter 6 — Implementation\nChapter 7 — Conclusions\nChapter 8 — References (IEEE style)\nAppendix A (Turnitin) and Appendix B (AI report)."
+  },
+  {
+    "question": "Give me some project ideas in the field of Web and Mobile Development.",
+    "answer": "Since you're interested in Web and Mobile Development, here are some project directions worth exploring: Virtual try-on system for e-commerce; HODS — hostel booking application; Career Finder — job/career-matching web app; Flood Detector web application. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "Is the FYP report template flexible, or must I follow it exactly?",
+    "answer": "The template is a fixed style guide. Only edit the content — never modify fonts, spacing, margins, or structural formatting."
+  },
+  {
+    "question": "Can you suggest a final year project related to Security and Blockchain?",
+    "answer": "Since you're interested in Security and Blockchain, here are some project directions worth exploring: Secure Sphere — AI-powered digital security application; Key Keepers — password-security tool for children; Blockchain-based supply-chain transparency for medicines; Intelligent security operations platform for threat detection. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "I am interested in IoT. What FYP project ideas would you suggest?",
+    "answer": "Since you're interested in IoT, here are some project directions worth exploring: IoT-based multi-site fuel dispenser monitoring system; Digital IoT-based forest monitoring network; Smart Helmet with embedded safety sensors; AgroTwinX — AI-powered digital twin for smart agriculture. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "How long should the introduction chapter be?",
+    "answer": "The Introduction must be a minimum of 500 words (typically 2–5 pages). Cover: domain background, motivation/significance (with references), objectives and scope, proposed solution, expected results, and a bullet list of main contributions."
+  },
+  {
+    "question": "How long should the abstract be?",
+    "answer": "The abstract must be a single paragraph under 250 words covering: domain background (~4 lines), problem statement (~4 lines), proposed solution (~4 lines), and results/expected outcomes (~4 lines)."
+  },
+  {
+    "question": "What should the poster contain for the External Evaluation?",
+    "answer": "The poster should summarize: the problem, proposed solution, system architecture/key technologies, and main results — designed so a judge understands your project's value within a couple of minutes."
+  },
+  {
+    "question": "Can you do my project for me?",
+    "answer": "I can guide you through structure, formatting rules, and content expectations — but the project work and report writing must be your own original effort. That is an academic integrity requirement and the whole point of an FYP."
+  },
+  {
+    "question": "What are the two phases of the Final Year Project?",
+    "answer": "The FYP is split into two consecutive phases. FYP-I focuses on proposal development, requirement analysis, system design, and an initial prototype (roughly 30% implementation), evaluated through a Mid Evaluation. FYP-II covers the remaining development, complete testing, 100% implementation, the final report, and culminates in an External Evaluation with live demonstrations and a poster session."
+  },
+  {
+    "question": "What kind of FYP topic should I pick if I like Natural Language Processing?",
+    "answer": "Since you're interested in Natural Language Processing, here are some project directions worth exploring: Text-to-Speech system for Urdu or English; YouTube Comments Sentiment Analysis; Insight Video — AI tool that summarizes YouTube videos; Intelligent agent-based system for career automation and interview preparation. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "Give me some project ideas in the field of E-commerce and Freelance Platforms.",
+    "answer": "Since you're interested in E-commerce and Freelance Platforms, here are some project directions worth exploring: TaskLink — hyperlocal marketplace for everyday tasks; AI-powered freelance marketplace with smart matching; RozgarPoint — job platform for low-skilled workers; AI-based job/career recommendation system. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What are the CLOs (Course Learning Outcomes) for FYP evaluation?",
+    "answer": "The FYP grading rubric is mapped to five Course Learning Outcomes (CLOs):\n1. Ethics, professionalism, and communication (5 marks)\n2. Designing effective solutions using current technologies (50 marks)\n3. Test plan design and defending functionality (20 marks)\n4. A formal technical report (20 marks)\n5. Communicating and justifying the solution (5 marks)."
+  },
+  {
+    "question": "Can you suggest a final year project related to Web and Mobile Development?",
+    "answer": "Since you're interested in Web and Mobile Development, here are some project directions worth exploring: Virtual try-on system for e-commerce; HODS — hostel booking application; Career Finder — job/career-matching web app; Flood Detector web application. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What kind of FYP topic should I pick if I like Smart Cities and Traffic?",
+    "answer": "Since you're interested in Smart Cities and Traffic, here are some project directions worth exploring: NextGen Traffic — AI-based traffic management system; SMART-X Twin — AI-based smart-city digital twin; Intelligent Urban Reporting System for civic issues; AeroTwin smart-airport digital twin. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "What does the grading rubric for FYP cover?",
+    "answer": "The FYP grading rubric is mapped to five Course Learning Outcomes (CLOs):\n1. Ethics, professionalism, and communication (5 marks)\n2. Designing effective solutions using current technologies (50 marks)\n3. Test plan design and defending functionality (20 marks)\n4. A formal technical report (20 marks)\n5. Communicating and justifying the solution (5 marks)."
+  },
+  {
+    "question": "Can you write my whole FYP report for me?",
+    "answer": "I can guide you through structure, formatting rules, and content expectations — but the project work and report writing must be your own original effort. That is an academic integrity requirement and the whole point of an FYP."
+  },
+  {
+    "question": "What happens during the External Evaluation day?",
+    "answer": "On External Evaluation day, every group must present: a project poster, a live demonstration, a presentation or demo video, full source code, the final report, and supporting materials. Setup must be done by 2:00 PM the day before — no setup is allowed on evaluation day. Students must be at their stations by 9:00 AM. Judges spend about 8-10 minutes per project. Absence results in losing all 40 External Evaluation marks. Formal attire is required and the University Student ID card must be visibly worn."
+  },
+  {
+    "question": "What should the FYP abstract contain?",
+    "answer": "The abstract must be a single paragraph under 250 words covering: domain background (~4 lines), problem statement (~4 lines), proposed solution (~4 lines), and results/expected outcomes (~4 lines)."
+  },
+  {
+    "question": "How should I write the problem statement?",
+    "answer": "The Problem Statement should be a single paragraph of no more than 10 lines, identifying limitations of existing methods, explaining why the problem is important, linking to real-world relevance, and justifying your proposed work."
+  },
+  {
+    "question": "What font, size, and spacing should the FYP report use?",
+    "answer": "A4 paper, margins as per template (do not modify). Body text: Times New Roman 11pt, 1.5 line spacing, 0pt before / 6pt after paragraphs, justified. Headings: H1 = 16pt bold, H2 = 14pt bold, H3 = 12pt bold italic. Max 3 heading levels. Code in Courier New (pseudocode preferred)."
+  },
+  {
+    "question": "What kind of FYP topic should I pick if I like Workflow Automation?",
+    "answer": "Since you're interested in Workflow Automation, here are some project directions worth exploring: AI-driven platform for FYP coordination and workflow automation; Clarion — AI-powered legal-practice management platform; Smart AI interview-analysis platform; xRuto — delivery route-optimization system for SMEs. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  },
+  {
+    "question": "Is individual FYP allowed?",
+    "answer": "An FYP group normally consists of 2 to 3 students. Working completely alone is discouraged — every group should have at least two members so that the workload, skill-sets, and responsibilities can be properly distributed across the project lifecycle."
+  },
+  {
+    "question": "What documents are required for FYP-II compliance?",
+    "answer": "Before a group is cleared for the Final External Evaluation, the FYP-II Compliance Form must confirm: documentation is complete and plagiarism-free, source code is 100% complete, demo is ready, poster is ready, and presentation is ready. It also verifies formatting items like page numbering, TOC, consistent fonts, justified paragraphs, IEEE-style references. The Project Supervisor signs off on this form."
+  },
+  {
+    "question": "Can you suggest a final year project related to FinTech?",
+    "answer": "Since you're interested in FinTech, here are some project directions worth exploring: FinGuard — AI-powered personal finance mentor; Slaeb HR — HR management platform; CareerSwipe — AI-powered job-recommendation system; Agent-based interview-preparation and career-automation system. When picking your final topic, narrow it down to one clear problem, check that required datasets/APIs/hardware are realistically available, and ensure it fits within a two-semester timeline. Choose a supervisor whose research interests align with this domain, and add an original angle rather than copying an existing product."
+  }
+]
