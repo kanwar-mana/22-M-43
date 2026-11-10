@@ -25,6 +25,7 @@ import groupRoutes from "./routes/group.routes.js";
 import usersRoutes from "./routes/users.routes.js";
 import uploadRoutes from "./routes/upload.routes.js";
 import coordinatorRoutes from "./routes/coordinator.routes.js";
+import chatRoutes from "./routes/chat.routes.js";
 import { errorHandler } from "./middlewares/error.middleware.js";
 
 //Use Routes Here
@@ -34,6 +35,10 @@ app.use("/api/v1/groups", groupRoutes);
 app.use("/api/v1/coordinator", usersRoutes);
 app.use("/api/v1/coordinator", coordinatorRoutes);
 app.use("/api/v1/upload", uploadRoutes);
+app.use("/api/v1/chat", chatRoutes);
+
+// Health check for deployment platforms
+app.get("/health", (req, res) => res.status(200).json({ status: "ok" }));
 
 app.use(errorHandler);
 

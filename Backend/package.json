@@ -8,6 +8,9 @@
     "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js",
     "start": "node -r dotenv/config --experimental-json-modules src/index.js"
   },
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "author": "Kanwer & Hassan",
   "license": "ISC",
   "devDependencies": {
